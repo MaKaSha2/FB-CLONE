@@ -8,4 +8,4 @@
 
 #cd FB-CLONE
 
-#python Clone.py
+#python crack.py
