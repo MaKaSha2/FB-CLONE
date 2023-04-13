@@ -2,7 +2,9 @@
 
 #pkg install python3
 
-#pip install requests bs4
+#pip install requests 
+
+#pip install bs4
 
 #git clone https://github.com/MaKaSha2/FB-CLONE
 
