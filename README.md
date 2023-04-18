@@ -2,6 +2,10 @@
 
 #pkg install python3
 
+#pkg install figlet
+
+#pip install lolcat
+
 #pip install requests 
 
 #pip install bs4
