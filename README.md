@@ -14,4 +14,4 @@
 
 #cd FB-CLONE
 
-#python mail_clone.py
+#python FB_MAIL.py
