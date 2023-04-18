@@ -10,4 +10,4 @@
 
 #cd FB-CLONE
 
-#python crack.py
+#python mail.py
